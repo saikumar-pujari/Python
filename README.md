@@ -1,7 +1,7 @@
 # 🐍 Python Mastery: From Basics to Advanced  
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![License](https://img.shields.io/badge/License-CodeWithHarry%20Inspired-yellow)
+![License](https://img.shields.io/badge/License-Cabelcurry%20Inspired-yellow)
 ![Progress](https://img.shields.io/badge/Status-Ongoing-brightgreen)
 
 Welcome to the **Python Mastery** repo — a fully loaded learning vault inspired by [cabelcurry]. Whether you're just starting or brushing up, this repo walks you through Python step-by-step, the Harry-style way 😉
